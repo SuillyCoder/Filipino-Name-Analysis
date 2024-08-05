@@ -1,0 +1,27 @@
+WE HAVE DATA ABOUT FILIPINO NAMES, WHAT DO YOU WANT TO ASK????
+
+Ask questions learning towards these 4 fields: 
+- Problems
+- Outcomes
+- Actions
+- Measures
+
+A potential PROBLEM is wanting to name your kid for Filipino parents
+We should provide them an idea of the potential number of Filipino names out there.
+THe OUTCOME is that they should be able to have an idea on what to name their child.
+
+QUESTIONS: 
+
+- What is the distribution of Male and Female names
+- What are the the top 25 commonly used names?
+    - What are the top 25 common male names?
+    - What are the top 25 common female names?
+- What are the top 25 least used / unique names?
+- Are names more popular if they're longer or shorter? (correlation)
+- How many names are there starting with a specific letter?
+    - What are the top 5 popular names per letter (make the user choose) 
+- How popular is your name? Let the user enter it and see for themselves
+
+After careful consdieration, I'd think these are the set of questions that are 
+best suited for addressing the problem of figuring out what to name your child
+within the Philippines.
